@@ -14,6 +14,41 @@
     "text": "Date\nTitle\nEvent\nLocation\nDetails\nAuthor\n\n\n\n\n2025-11-25\nBest websites in Quarto\nSASA2025\nVanderbijlpark at the Riverside Sun Hotel\nContributed talk\nPresenting author"
   },
   {
+    "objectID": "management.html",
+    "href": "management.html",
+    "title": "Management",
+    "section": "",
+    "text": "Individual\nPortfolio\nTerm\n\n\n\n\nProf. Sugnet Lubbe\nDirector\n2025 -\n\n\nDr Johané Nienkemper-Swanepoel\nDeputy director\n2025 -\n\n\nDr Raeesa Ganey\nSecretary\n2025 -\n\n\nProf. Roelof Coetzer\nFinancial Officer\n2025 -"
+  },
+  {
+    "objectID": "management.html#management-committee",
+    "href": "management.html#management-committee",
+    "title": "Management",
+    "section": "",
+    "text": "Individual\nPortfolio\nTerm\n\n\n\n\nProf. Sugnet Lubbe\nDirector\n2025 -\n\n\nDr Johané Nienkemper-Swanepoel\nDeputy director\n2025 -\n\n\nDr Raeesa Ganey\nSecretary\n2025 -\n\n\nProf. Roelof Coetzer\nFinancial Officer\n2025 -"
+  },
+  {
+    "objectID": "management.html#governing-board",
+    "href": "management.html#governing-board",
+    "title": "Management",
+    "section": "Governing board",
+    "text": "Governing board\n\n\n\n\n\n\n\n\nYear\nPosition\nInstitution\n\n\n\n\nXXX - current\nLevel\nInstitution\n\n\nXXX - XXX\nLevel\nInstitution"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "MuViSU",
+    "section": "",
+    "text": "My first blog post\n\n\n\nR\n\nPresentations in Quarto\n\n\n\n\n\n\n\n\n\n25 November 2025\n\n\nName Surname\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Centre for Multi-Dimensional Data Visualisation",
+    "section": "",
+    "text": "The core activities of MuViSU are three-fold:\n\nTo extend multi-dimensional visualisation methodology and related techniques, such as biplots, through theoretical developments;\nThe application of newly derived techniques to data sets originating from various fields;\nThe development, maintenance, and improvement of an extensive collection of R functions for constructing all necessary graphical displays and performing various multi-dimensional visualisation based techniques.\n\nVision\nTo make multi-dimensional visualisation methodologies relevant and accessible by empowering practitioners and researchers of varying skills to apply these visualisations widely in data exploration, especially in the current era of big data.\nMission\nTo advance the practice, application and research in the visualisation of multi-dimensional data. This will be done through establishing collaborative networks, developing software and high-quality peer-reviewed research outputs."
+  },
+  {
     "objectID": "posts/2025-11-25-my-first-blog-post/index.html",
     "href": "posts/2025-11-25-my-first-blog-post/index.html",
     "title": "My first blog post",
@@ -40,61 +75,5 @@
     "title": "My first blog post",
     "section": "Next",
     "text": "Next\nStay tuned for some new blog posts."
-  },
-  {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
-    "section": "",
-    "text": "Year\nDegree\nInstitution\n\n\n\n\nXXX\nPhD\nUniversity, Country\n\n\nXXX\nMSc\nUniversity, Country\n\n\nXXX\nXXX\nUniversity, Country"
-  },
-  {
-    "objectID": "education.html#degrees",
-    "href": "education.html#degrees",
-    "title": "Education",
-    "section": "",
-    "text": "Year\nDegree\nInstitution\n\n\n\n\nXXX\nPhD\nUniversity, Country\n\n\nXXX\nMSc\nUniversity, Country\n\n\nXXX\nXXX\nUniversity, Country"
-  },
-  {
-    "objectID": "education.html#positions",
-    "href": "education.html#positions",
-    "title": "Education",
-    "section": "Positions",
-    "text": "Positions\n\n\n\n\n\n\n\n\nYear\nPosition\nInstitution\n\n\n\n\nXXX - current\nLevel\nInstitution\n\n\nXXX - XXX\nLevel\nInstitution"
-  },
-  {
-    "objectID": "education.html#awards",
-    "href": "education.html#awards",
-    "title": "Education",
-    "section": "Awards",
-    "text": "Awards\n\nRecipient of the MDAG best website award 2025."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Name Surname",
-    "section": "",
-    "text": "My first blog post\n\n\n\n\n\n\nR\n\n\nPresentations in Quarto\n\n\n\n\n\n\n\n\n\n25 November 2025\n\n\nName Surname\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Initial Surname",
-    "section": "",
-    "text": "Initial Surname is from the well-known establishment of the University of Academia in the land of Statistics.\nInitial has served on various committees.\nInitial is an expert in websites in Quarto.\n \n  \n   \n  \n    \n     \n  \n  \n    \n     \n  \n  \n     scholar\n  \n  \n     orcid"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "title\nyear\njournal\n\n\n\n\nBiplot visualisations of the differences between multiple imputation techniques for simulated categorical data\n2025\nDiscover Data\n\n\nOn subset multiple correspondence analysis for incomplete multivariate categorical data\n2024\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2023\nCommunications in Statistics - Simulation and Computation\n\n\nComments: Development of an early career academic supervisor in Statistics - a discussion on a guiding rubric\n2022\nORION\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics: Simulation and Computation\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nData Analysis and Rationality in a Complex World. IFCS 2019. Studies in Classification, Data Analysis, and Knowledge Organization\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nStudies in Classification, Data Analysis, and Knowledge Organization\n\n\nVisualising Incomplete Data with Subset Multiple Correspondence Analysis\n2018\nArchives of Data Science, Series A (Online First)\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
-  },
-  {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "",
-    "text": "title\nyear\njournal\n\n\n\n\nBiplot visualisations of the differences between multiple imputation techniques for simulated categorical data\n2025\nDiscover Data\n\n\nOn subset multiple correspondence analysis for incomplete multivariate categorical data\n2024\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2023\nCommunications in Statistics - Simulation and Computation\n\n\nComments: Development of an early career academic supervisor in Statistics - a discussion on a guiding rubric\n2022\nORION\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics: Simulation and Computation\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nData Analysis and Rationality in a Complex World. IFCS 2019. Studies in Classification, Data Analysis, and Knowledge Organization\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nStudies in Classification, Data Analysis, and Knowledge Organization\n\n\nVisualising Incomplete Data with Subset Multiple Correspondence Analysis\n2018\nArchives of Data Science, Series A (Online First)\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
   }
 ]

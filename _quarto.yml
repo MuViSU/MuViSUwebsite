@@ -4,21 +4,21 @@ project:
   resources: files
 
 website:
-  title: "Name Surname"
+  title: "MuViSU"
   favicon: logo.png
-  #site-url: https://github.com/jnienk/jns-quarto
+  #site-url: https://github.com/MuViSU/MuViSUwebsite
   navbar:
     background: primary
     search: true
     left:
       - text: Home
         href: index.qmd
-      - text: Education
-        href: education.qmd
-      - text: Talks
-        href: talks.qmd  
-      - text: Blog posts
-        href: blog.qmd
+      - text: Management
+        href: management.qmd
+      #- text: Talks
+      #  href: talks.qmd  
+      #- text: Blog posts
+      #  href: blog.qmd
       #- text: Publications
       #  href: publications.qmd  
     right:
@@ -26,7 +26,7 @@ website:
         href: https://github.com/      
 
 body-footer: | 
-  Copyright:  Name Surname, 2025
+  Copyright:  MuViSU, 2026
 
 date-format: "D MMMM YYYY"
 

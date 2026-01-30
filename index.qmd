@@ -1,7 +1,7 @@
 ---
-title: "Initial Surname"
+title: "Centre for Multi-Dimensional Data Visualisation"
 comments: false
-image: profile.png
+#image: profile.png
 about:
   id: hero-heading
   template: jolla
@@ -10,22 +10,45 @@ about:
   image-shape: round
   links:
     - icon: envelope
-      href: mailto:surname@web.ac.za
+      href: mailto:muvisu@sun.ac.za
     - icon: github
-      href: https://github.com/
-    - text: scholar
-      href: https://scholar.google.com/
-    - text: orcid
-      href: https://orcid.org/
+      href: https://github.com/MuViSU
+  #   - text: scholar
+  #   href: https://scholar.google.com/
+  #  - text: orcid
+  #   href: https://orcid.org/
     - icon: linkedin
-      href: https://www.linkedin.com/
+      href: https://za.linkedin.com/company/muvisu-centre-for-multi-dimensional-data-visualisation-stellenbosch-university
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ::: {#hero-heading}
+**The core activities of MuViSU are three-fold:**
 
-Initial Surname is from the well-known establishment of the University of Academia in the land of Statistics.
+-   To extend multi-dimensional visualisation methodology and related
+    techniques, such as biplots, through theoretical developments;
 
-Initial has served on various committees.
+-   The application of newly derived techniques to data sets originating
+    from various fields;
 
-Initial is an expert in websites in Quarto.
+-   The development, maintenance, and improvement of an extensive
+    collection of R functions for constructing all necessary graphical
+    displays and performing various multi-dimensional visualisation
+    based techniques.
+
+**Vision**
+
+To make multi-dimensional visualisation methodologies relevant and
+accessible by empowering practitioners and researchers of varying skills
+to apply these visualisations widely in data exploration, especially in
+the current era of big data.
+
+**Mission**
+
+To advance the practice, application and research in the visualisation
+of multi-dimensional data. This will be done through establishing
+collaborative networks, developing software and high-quality
+peer-reviewed research outputs.
 :::

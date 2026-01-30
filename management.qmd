@@ -1,0 +1,20 @@
+---
+title: "Management"
+---
+
+## Management Committee
+
+| Individual | Portfolio | Term |
+|:-----------------------|:-----------------------|:-----------------------|
+| Prof. Sugnet Lubbe | Director | 2025 -  |
+| Dr Johané Nienkemper-Swanepoel | Deputy director  | 2025 - |
+| Dr Raeesa Ganey | Secretary  | 2025 - |
+| Prof. Roelof Coetzer | Financial Officer  | 2025 -  |
+
+## Governing board
+
+| Year | Position | Institution |
+|:-----------------------|:-----------------------|:-----------------------|
+| XXX - current | Level | Institution |
+| XXX - XXX | Level | Institution |
+

@@ -1,0 +1,256 @@
+---
+title: "Research Members"
+---
+
+::: {.grid .gap-4}
+
+::: {.g-col-4 .text-center}
+[![](images/Bakk.jpg){.rounded-circle width="150"}](https://www.universiteitleiden.nl/en/staffmembers/zsuzsa-bakk#tab-1)
+
+**Zsuzsa Bakk**  
+Assistant Professor, Instituut Psychologie, Methodologie & Statistiek, Universiteit Leiden, The Netherlands
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/Beh.jpg){.rounded-circle width="150"}](https://scholar.google.com/citations?user=EQE6sQsAAAAJ&hl=en)
+
+**Eric Beh**  
+Extra-ordinary Professor, Department of Statistics and Actuarial Science, Stellenbosch University
+:::
+
+
+::: {.g-col-4 .text-center}
+[![](images/placeholder.png){.rounded-circle width="150"}](https://paulabritoweb.wordpress.com/)
+
+**Paula Brito**  
+Associate Professor in Statistics and Data Analysis at the Faculty of Economics (Group of Mathematics and Information Sciences) of the University of Porto
+:::
+::::
+
+
+::: {.grid .gap-4}
+
+::: {.g-col-4 .text-center}
+[![](images/Cavicchia.jpg){.rounded-circle width="150"}](https://carlocavicchia.github.io/)
+
+**Carlo Cavicchia**  
+Assistant Professor, Econometrics Institute, Erasmus University, Rotterdam, The Netherlands
+:::
+
+
+::: {.g-col-4 .text-center}
+![](images/Choulakian.jpg){.rounded-circle width="150"}
+
+**Vartan Choulakian**  
+Professor, Mathematics and Statistics, Université De Moncton, Canada
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/Coetzer.jpg){.rounded-circle width="150"}](https://drupal-test5.nwu.ac.za/statistics-statistical-consultation-services/roelof-coetzer)
+
+**Roelof Coetzer**  
+Professor, North West University
+:::
+
+::::
+
+
+::: {.grid .gap-4}
+
+::: {.g-col-4 .text-center}
+[![](images/deRooij.jpg){.rounded-circle width="150"}](https://markderooij.info/)
+
+**Mark de Rooij**  
+Professor, Artificial Intelligence and Data Theory, Universiteit Leiden, The Netherlands
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/Filzmoser.jpg){.rounded-circle width="150"}](https://cstat.tuwien.ac.at/)
+
+**Peter Filzmoser**  
+Professor, Head of research unit Computational Statistics, Institute of Statistics and Mathematical Methods in Economics, Vienna University of Technology, Austria
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/Ganey.jpg){.rounded-circle width="150"}](https://raeesaganey91.github.io/rganey_quarto/)
+
+**Raeesa Ganey**  
+Lecturer, University of the Witwatersrand, South Africa
+:::
+
+::::
+
+::: {.grid .gap-4}
+
+
+::: {.g-col-4 .text-center}
+[![](images/placeholder.png){.rounded-circle width="150"}](https://markderooij.info/)
+
+**Michael Greenacre**  
+Professor, Pompeu Fabra University, Barcelona, Spain
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/Groenen.jpg){.rounded-circle width="150"}](https://www.eur.nl/en/people/patrick-groenen)
+
+**Patrick Groenen**  
+Professor and Dean, Erasmus School of Economics, Erasmus University, The Netherlands
+:::
+
+::: {.g-col-4 .text-center}
+![](images/Iodice.jpg){.rounded-circle width="150"}
+
+**Alfonso Iodice D’Enza**  
+Professor, Department of Political Sciences, University of Naples Federico II, Italy
+:::
+
+::::
+
+::: {.grid .gap-4}
+
+
+::: {.g-col-4 .text-center}
+[![](images/Lamont.jpg){.rounded-circle width="150"}](https://sites.google.com/site/mmclamont)
+
+**Morne Lamont**  
+Senior lecturer, Department of Statistics and Actuarial Science, Stellenbosch University
+:::
+
+::: {.g-col-4 .text-center}
+![](images/placeholder.png){.rounded-circle width="150"}
+
+**Susan Laurens**  
+Heineken
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/leRoux.jpg){.rounded-circle width="150"}](https://scholar.google.co.za/citations?user=-46FLkcAAAAJ&amp;amp;hl=en)
+
+**Niël le Roux**  
+Emeritus Professor, Department of Statistics and Actuarial Science, Stellenbosch University
+:::
+::::
+
+::: {.grid .gap-4}
+
+
+::: {.g-col-4 .text-center}
+[![](images/Liebenberg.jpg){.rounded-circle width="150"}](https://scholar.google.co.za/citations?user=ckitJMQAAAAJ&amp;hl=en)
+
+**Shawn Liebenberg**  
+Senior lecturer, North West University
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/Lombardo.jpg){.rounded-circle width="150"}](https://www.economia.unicampania.it/dipartimento/docenti?MATRICOLA=057444)
+
+**Rosaria Lombardo**  
+Professor, University of Campania “Luigi Vanvitelli”, Italy
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/Lubbe.jpg){.rounded-circle width="150"}](https://sugnet.github.io/Academic/)
+
+**Sugnet Lubbe**  
+Professor, Department of Statistics and Actuarial Science, Stellenbosch University
+:::
+::::
+
+
+::: {.grid .gap-4}
+
+
+::: {.g-col-4 .text-center}
+[![](images/Markos.jpg){.rounded-circle width="150"}](http://www.amarkos.gr/about/)
+
+**Angelos Markos**  
+Associate Professor, Democritus University of Thrace, Greece
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/Nienkemper_Swanepoel J.jpg){.rounded-circle width="150"}](https://jnienk.github.io/jns-quarto/)
+
+**Johané Nienkemper-Swanepoel**  
+Senior Lecturer, Department of Statistics and Actuarial Science, Stellenbosch University
+:::
+
+
+::: {.g-col-4 .text-center}
+[![](images/Rossouw.jpg){.rounded-circle width="150"}](https://www.researchgate.net/profile/Ruan-Rossouw)
+
+**Ruan Rossouw**  
+Senior Data Scientist, Sasol, South Africa
+:::
+::::
+
+
+::: {.grid .gap-4}
+
+
+::: {.g-col-4 .text-center}
+[![](images/Schoonees.jpg){.rounded-circle width="150"}](https://www.eur.nl/en/people/pieter-schoonees)
+
+**Pieter Schoonees**  
+Assistant Professor, Erasmus School of Economics, Erasmus University, The Netherlands
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/Steyn.jpg){.rounded-circle width="150"}](https://za.linkedin.com/in/luca-steyn-a9875a16b)
+
+**Luca Steyn**  
+Lecturer, Department of Statistics and Actuarial Science, Stellenbosch University
+:::
+
+
+::: {.g-col-4 .text-center}
+![](images/Uys.jpg){.rounded-circle width="150"}
+
+**Danie Uys**  
+Associate Professor, Department of Statistics and Actuarial Science, Stellenbosch University
+:::
+::::
+
+::: {.grid .gap-4}
+
+::: {.g-col-4 .text-center}
+![](images/CJvanderMerwe.jpg){.rounded-circle width="150"}
+
+**Carel van der Merwe**  
+Independent Risk Analyst, South Africa
+:::
+
+::: {.g-col-4 .text-center}
+[![](images/SvanderMerwe.jpg){.rounded-circle width="150"}](https://seanvdm.co.za/)
+
+**Sean van der Merwe**  
+Academic Head of Department, Department of Statistics and Actuarial Science, University of the Free State.
+:::
+::: {.g-col-4 .text-center}
+[![](images/vanderWesthuizen.jpg){.rounded-circle width="150"}](https://stephanvdw.wixsite.com/academicprofile/about)
+
+**Stephan van der Westhuizen**  
+Senior Lecturer, Department of Statistics and Actuarial Science, Stellenbosch University
+:::
+:::
+
+
+
+::: {.grid .gap-4}
+
+
+::: {.g-col-4 .text-center}
+[![](images/placeholder.png){.rounded-circle width="150"}](https://www.eur.nl/people/michel-van-de-velden)
+
+**Michel van de Velden**  
+Associate Professor of Statistics at the Econometric Institute of the Erasmus University Rotterdam
+:::
+
+::: {.g-col-4 .text-center}
+
+:::
+
+::: {.g-col-4 .text-center}
+
+:::
+
+::: 

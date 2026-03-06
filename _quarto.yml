@@ -13,8 +13,11 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Members
+        href: members.qmd
       - text: Management
         href: management.qmd
+        
       #- text: Talks
       #  href: talks.qmd  
       #- text: Blog posts

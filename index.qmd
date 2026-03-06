@@ -5,9 +5,9 @@ comments: false
 about:
   id: hero-heading
   template: jolla
-  image: profile.png
-  image-width: 15em
-  image-shape: round
+  image: MuViSU_banner.png
+  image-width: 100%
+  image-shape: rectangle
   links:
     - icon: envelope
       href: mailto:muvisu@sun.ac.za

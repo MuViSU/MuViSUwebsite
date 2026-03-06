@@ -14,6 +14,27 @@
     "text": "Date\nTitle\nEvent\nLocation\nDetails\nAuthor\n\n\n\n\n2025-11-25\nBest websites in Quarto\nSASA2025\nVanderbijlpark at the Riverside Sun Hotel\nContributed talk\nPresenting author"
   },
   {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Research Members",
+    "section": "",
+    "text": "Zsuzsa Bakk\nAssistant Professor, Instituut Psychologie, Methodologie & Statistiek, Universiteit Leiden, The Netherlands\n\n\n\nEric Beh\nExtra-ordinary Professor, Department of Statistics and Actuarial Science, Stellenbosch University\n\n\n\nPaula Brito\nAssociate Professor in Statistics and Data Analysis at the Faculty of Economics (Group of Mathematics and Information Sciences) of the University of Porto\n\n\n\n\n\nCarlo Cavicchia\nAssistant Professor, Econometrics Institute, Erasmus University, Rotterdam, The Netherlands\n\n\n\nVartan Choulakian\nProfessor, Mathematics and Statistics, Université De Moncton, Canada\n\n\n\nRoelof Coetzer\nProfessor, North West University\n\n\n\n\n\nMark de Rooij\nProfessor, Artificial Intelligence and Data Theory, Universiteit Leiden, The Netherlands\n\n\n\nPeter Filzmoser\nProfessor, Head of research unit Computational Statistics, Institute of Statistics and Mathematical Methods in Economics, Vienna University of Technology, Austria\n\n\n\nRaeesa Ganey\nLecturer, University of the Witwatersrand, South Africa\n\n\n\n\n\nMichael Greenacre\nProfessor, Pompeu Fabra University, Barcelona, Spain\n\n\n\nPatrick Groenen\nProfessor and Dean, Erasmus School of Economics, Erasmus University, The Netherlands\n\n\n\nAlfonso Iodice D’Enza\nProfessor, Department of Political Sciences, University of Naples Federico II, Italy\n\n\n\n\n\nMorne Lamont\nSenior lecturer, Department of Statistics and Actuarial Science, Stellenbosch University\n\n\n\nSusan Laurens\nHeineken\n\n\n\nNiël le Roux\nEmeritus Professor, Department of Statistics and Actuarial Science, Stellenbosch University\n\n\n\n\n\nShawn Liebenberg\nSenior lecturer, North West University\n\n\n\nRosaria Lombardo\nProfessor, University of Campania “Luigi Vanvitelli”, Italy\n\n\n\nSugnet Lubbe\nProfessor, Department of Statistics and Actuarial Science, Stellenbosch University\n\n\n\n\n\nAngelos Markos\nAssociate Professor, Democritus University of Thrace, Greece\n\n\n\nJohané Nienkemper-Swanepoel\nSenior Lecturer, Department of Statistics and Actuarial Science, Stellenbosch University\n\n\n\nRuan Rossouw\nSenior Data Scientist, Sasol, South Africa\n\n\n\n\n\nPieter Schoonees\nAssistant Professor, Erasmus School of Economics, Erasmus University, The Netherlands\n\n\n\nLuca Steyn\nLecturer, Department of Statistics and Actuarial Science, Stellenbosch University\n\n\n\nDanie Uys\nAssociate Professor, Department of Statistics and Actuarial Science, Stellenbosch University\n\n\n\n\n\nCarel van der Merwe\nIndependent Risk Analyst, South Africa\n\n\n\nSean van der Merwe\nAcademic Head of Department, Department of Statistics and Actuarial Science, University of the Free State.\n\n\n\nStephan van der Westhuizen\nSenior Lecturer, Department of Statistics and Actuarial Science, Stellenbosch University\n\n\n\n\n\nMichel van de Velden\nAssociate Professor of Statistics at the Econometric Institute of the Erasmus University Rotterdam"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Centre for Multi-Dimensional Data Visualisation",
+    "section": "",
+    "text": "The core activities of MuViSU are three-fold:\n\nTo extend multi-dimensional visualisation methodology and related techniques, such as biplots, through theoretical developments;\nThe application of newly derived techniques to data sets originating from various fields;\nThe development, maintenance, and improvement of an extensive collection of R functions for constructing all necessary graphical displays and performing various multi-dimensional visualisation based techniques.\n\nVision\nTo make multi-dimensional visualisation methodologies relevant and accessible by empowering practitioners and researchers of varying skills to apply these visualisations widely in data exploration, especially in the current era of big data.\nMission\nTo advance the practice, application and research in the visualisation of multi-dimensional data. This will be done through establishing collaborative networks, developing software and high-quality peer-reviewed research outputs."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "MuViSU",
+    "section": "",
+    "text": "My first blog post\n\n\n\nR\n\nPresentations in Quarto\n\n\n\n\n\n\n\n\n\n25 November 2025\n\n\nName Surname\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "management.html",
     "href": "management.html",
     "title": "Management",
@@ -33,20 +54,6 @@
     "title": "Management",
     "section": "Governing board",
     "text": "Governing board\n\n\n\n\n\n\n\n\nYear\nPosition\nInstitution\n\n\n\n\nXXX - current\nLevel\nInstitution\n\n\nXXX - XXX\nLevel\nInstitution"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "MuViSU",
-    "section": "",
-    "text": "My first blog post\n\n\n\nR\n\nPresentations in Quarto\n\n\n\n\n\n\n\n\n\n25 November 2025\n\n\nName Surname\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Centre for Multi-Dimensional Data Visualisation",
-    "section": "",
-    "text": "The core activities of MuViSU are three-fold:\n\nTo extend multi-dimensional visualisation methodology and related techniques, such as biplots, through theoretical developments;\nThe application of newly derived techniques to data sets originating from various fields;\nThe development, maintenance, and improvement of an extensive collection of R functions for constructing all necessary graphical displays and performing various multi-dimensional visualisation based techniques.\n\nVision\nTo make multi-dimensional visualisation methodologies relevant and accessible by empowering practitioners and researchers of varying skills to apply these visualisations widely in data exploration, especially in the current era of big data.\nMission\nTo advance the practice, application and research in the visualisation of multi-dimensional data. This will be done through establishing collaborative networks, developing software and high-quality peer-reviewed research outputs."
   },
   {
     "objectID": "posts/2025-11-25-my-first-blog-post/index.html",

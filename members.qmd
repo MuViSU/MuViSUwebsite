@@ -20,7 +20,7 @@ Extra-ordinary Professor, Department of Statistics and Actuarial Science, Stelle
 
 
 ::: {.g-col-4 .text-center}
-[![](images/placeholder.png){.rounded-circle width="150"}](https://paulabritoweb.wordpress.com/)
+[![](images/Brito.png){.rounded-circle width="150"}](https://paulabritoweb.wordpress.com/)
 
 **Paula Brito**  
 Associate Professor in Statistics and Data Analysis at the Faculty of Economics (Group of Mathematics and Information Sciences) of the University of Porto
@@ -84,7 +84,7 @@ Lecturer, University of the Witwatersrand, South Africa
 
 
 ::: {.g-col-4 .text-center}
-[![](images/placeholder.png){.rounded-circle width="150"}](https://markderooij.info/)
+[![](images/Greeancre.jpg){.rounded-circle width="150"}](https://scholar.google.com/citations?user=MCOsw14AAAAJ)
 
 **Michael Greenacre**  
 Professor, Pompeu Fabra University, Barcelona, Spain
@@ -117,7 +117,7 @@ Senior lecturer, Department of Statistics and Actuarial Science, Stellenbosch Un
 :::
 
 ::: {.g-col-4 .text-center}
-![](images/placeholder.png){.rounded-circle width="150"}
+![](images/Laurens.png){.rounded-circle width="150"}
 
 **Susan Laurens**  
 Heineken
@@ -239,7 +239,7 @@ Senior Lecturer, Department of Statistics and Actuarial Science, Stellenbosch Un
 
 
 ::: {.g-col-4 .text-center}
-[![](images/placeholder.png){.rounded-circle width="150"}](https://www.eur.nl/people/michel-van-de-velden)
+[![](images/vandeVelden.jpg){.rounded-circle width="150"}](https://www.eur.nl/people/michel-van-de-velden)
 
 **Michel van de Velden**  
 Associate Professor of Statistics at the Econometric Institute of the Erasmus University Rotterdam
